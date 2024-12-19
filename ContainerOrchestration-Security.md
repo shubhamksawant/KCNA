@@ -1,7 +1,4 @@
 
-Here's a well-structured **README** file addressing the questions under the **Container Orchestration - Security** section. I’ve organized it with **questions, answers, scenarios, and examples** for better clarity.
-
---- 
 
 # **Kubernetes Security Q&A with Scenarios**
 
